@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\bin\Debug\InjectorFrameWork.exe.config
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\bin\Debug\InjectorFrameWork.exe
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\bin\Debug\InjectorFrameWork.pdb
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.Form1.resources
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.Properties.Resources.resources
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.csproj.GenerateResource.cache
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.exe
+C:\Users\User\source\repos\InjectorFrameWork\InjectorFrameWork\obj\Debug\InjectorFrameWork.pdb
